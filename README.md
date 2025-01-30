@@ -103,11 +103,11 @@ The microdata from the ENEM 2018 provides us many features related to each candi
 
 <div class="alert alert-danger">
 <strong><div style="color: rgb(0, 0, 0);">📌  Challenges and Future Work:</div></strong> <br>
-<div style="color: rgb(0, 0, 0);">→ Because of lack of computational power and memory, we did the analysis on only a portion of the whole daatset (5.5mi). It is not ideal and may have led to worse results and misleading analysis.;</div>
+<div style="color: rgb(0, 0, 0);">→ Because of lack of computational power and memory, we did the analysis on only a portion of the whole dataset (5.5mi). It is not ideal and may have led to worse results and misleading analysis.;</div>
 <div style="color: rgb(0, 0, 0);">→ We didn't have time to test different regression methods and make a comparative study between them. That would have been very interesting.</div>
 <div style="color: rgb(0, 0, 0);">→ We dropped many columns or rows to solve missing data issues. That is not the best way to do it in production, specially when the data is as meaningful as what we have here (already treated data). </div>
-<div style="color: rgb(0, 0, 0);">→ The hypothesis testing was 1uite obvious, but still an rigorous statistical approach to avoid being biased towards an obvious direction. We could however test other less obvious things in our analysis, such as difference in performance based on age and what could that mean. </div>
-<div style="color: rgb(0, 0, 0);">→ A very meaningul analysis would include crossing the data with the schools where the candidates are from (how many teachers, how much ressources, how many students in the school) and also the sity in which the school is located (HDI, population size, income per capta, sanitation data, public transportation, healthcare) </div>
+<div style="color: rgb(0, 0, 0);">→ The hypothesis testing was quite obvious, but still a rigorous statistical approach to avoid being biased towards an obvious direction. We could however test other less obvious statements in our analysis, such as difference in performance based on age and what could that mean. </div>
+<div style="color: rgb(0, 0, 0);">→ A very meaningul analysis would include crossing the data with the schools where the candidates are from (how many teachers, how much ressources, how many students in the school) and also the city in which the school is located (HDI, population size, income per capta, sanitation data, public transportation, healthcare) </div>
 </div>
 
 # References <a class="anchor" id="8"></a>
